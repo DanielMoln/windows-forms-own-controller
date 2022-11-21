@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WinFormsApp3
+{
+    public class MyData
+    {
+        public string Title { get; set; }
+        public string SubTitle { get; set; }
+    }
+}
